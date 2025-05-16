@@ -1,4 +1,3 @@
-# views/company_views.py
 from rest_framework import viewsets
 from ipo.models import Company
 from ipo.serializers import CompanySerializer
